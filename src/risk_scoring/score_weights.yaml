@@ -1,0 +1,5 @@
+rule_weight: 0.5
+anomaly_weight: 0.3
+cluster_weight: 0.2
+high_risk_threshold: 0.8
+
